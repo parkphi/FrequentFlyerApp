@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FrequentFlyer</string>
+    <string name="spinner_prompt">Select Flight ID</string>
+</resources>
